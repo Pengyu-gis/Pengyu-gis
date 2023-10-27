@@ -12,7 +12,7 @@
 
 <a href="https://gisphere.info/">
   <div align="left">
-  <img src=gisinfo.png alt="drawing" width="390">
+  <img src=gisinfo.png alt="drawing" width="423">
 </a><br>
 
 ***click the logo to visit the website!***
