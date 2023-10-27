@@ -6,8 +6,15 @@
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
 </a>
 
-### Project
+### GISphere
+
+*This School Instruction Project was launched in September 2019, aiming to provide timely and comprehensive information on global GIS and related professional colleges. The information is provided by current students, recently graduated alumni or young teachers from prestigious schools of GIS and urban planning and other related majors around the world. We hope this guide can provide help and support for GIS-related professional friends who intend to study abroad.*
 
 <a href="https://gisphere.info/">
+  <div align="left">
+  <img src=gisinfo.png alt="drawing" width="390">
+</a><br>
 
-</a>
+***click the logo to vist the website!***
+    
+ Old version: https://gis-info.github.io/
