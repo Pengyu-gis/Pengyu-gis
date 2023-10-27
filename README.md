@@ -15,6 +15,6 @@
   <img src=gisinfo.png alt="drawing" width="390">
 </a><br>
 
-***click the logo to vist the website!***
+***click the logo to visit the website!***
     
  Old version: https://gis-info.github.io/
