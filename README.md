@@ -21,8 +21,3 @@
 
 - *School Institution Guide: https://gisphere.info/school*
 - *Old version: https://gis-info.github.io/*
-
-
-### *My website*
-
-*You can check my website and CV here:*  *https://pengyu-gis.github.io/*
