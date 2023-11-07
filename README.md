@@ -25,4 +25,4 @@
 ### *My Website*
   *If you are interested, feel free too check my cv in my [website](https://pengyu-gis.github.io/about.html).*   
   
-网站做的不好，努力中 :)
+`Nothing of mine is good enough. I'm trying to get better :)`
