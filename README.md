@@ -15,8 +15,7 @@
   <img src=gisinfo.png alt="drawing" width="400">
 </a>
 
-
-***click the logo to visit the website!***
+  *click the logo to visit the [website](https://gisphere.info/)!*
 
 ### *My Website*
   *If you are interested, feel free too check my cv in my [website](https://pengyu-gis.github.io/about.html).*   
