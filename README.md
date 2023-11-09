@@ -8,16 +8,10 @@
 
 ### *GISphere*
 
-- *This School Instruction Project was launched in September 2019, aiming to provide timely and comprehensive information on global GIS and related professional colleges.*
-- *We hope this guide can provide help and support for GIS-related professional friends who intend to study abroad.*
-
-<a href="https://gisphere.info/">
-  <img src=gisinfo.png alt="drawing" width="400">
-</a>
-
-  *click the logo to visit the [website](https://gisphere.info/)!*
+- *This School Instruction Project was launched in September 2019, aiming to provide timely and comprehensive information on global GIS and related professional colleges.* *We hope this guide can provide help and support for GIS-related professional friends who intend to study abroad.*
+- *The website [gisphere.info](https://gisphere.info/);  If you have any feedback or advice please contact <gisphere@outlook.com>.*
 
 ### *My Website*
-  *If you are interested, feel free too check my cv in my [website](https://pengyu-gis.github.io/about.html).*   
+  *If you are interested about me, It is my [Résumé](https://pengyu-gis.github.io/about.html).*   
   
 *`Nothing of mine is good enough. I'm trying to get better:)`*
