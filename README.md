@@ -19,9 +19,6 @@
 
 ***click the logo to visit the website!***
 
-- *[New GIS-related School Guide](https://gisphere.info/school)*;  <br> 
-- *[Old version of School Guide](https://gis-info.github.io/)*
-
 ### *My Website*
   *If you are interested, feel free too check my cv in my [website](https://pengyu-gis.github.io/about.html).*   
   
