@@ -12,9 +12,9 @@
 - *We hope this guide can provide help and support for GIS-related professional friends who intend to study abroad.*
 
 <a href="https://gisphere.info/">
-  <div align="left">
   <img src=gisinfo.png alt="drawing" width="400">
-</a><br>
+</a>
+
 
 ***click the logo to visit the website!***
 
