@@ -15,6 +15,5 @@
   *If you are interested about me:* 
   - *my [Résumé](https://pengyu-gis.github.io/about.html).*   
   - *my [website](pengyu-gis.github.io)*
-  - *my [research gate](https://www.researchgate.net/profile/Pengyu-Chen-20)*
-
+    
  Nothing of mine is good enough. I'm trying to be better.
