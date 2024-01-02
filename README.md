@@ -1,4 +1,7 @@
 ### *Contact*
+I'm a GIS (geographical information science) student. <br>
+Due to the interdisciplinary nature of GIS, my interests include the **IoT, CV, GeoAI, and HCI**, which I call "***human-related computing***".
+<br><br>
 <a href="https://www.linkedin.com/in/pengyu-chen-a07973181/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=yellow" alt="LinkedIn Badge"/>
 </a>
