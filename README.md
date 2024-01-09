@@ -16,7 +16,6 @@ Due to the interdisciplinary nature of GIS, my interests include the **IoT, CV, 
 
 ### *My Website*
   *If you are interested about me:* 
-  - *my [Résumé](https://pengyu-gis.github.io/about.html).*   
   - *my [website](pengyu-gis.github.io)*
     
  Nothing of mine is good enough. **I'm trying to be better.**
