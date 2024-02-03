@@ -1,5 +1,5 @@
 ### *Contact*
-I'm a GIS (geographical information science) student. <br>
+I'm a GIS (*Geographical Information Science*) student. <br>
 Due to the interdisciplinary nature of GIS, my interests include: **IoT | CV | GeoAI | HCI**.
 <br><br>
 <a href="https://www.linkedin.com/in/pengyu-chen-a07973181/">
@@ -8,7 +8,7 @@ Due to the interdisciplinary nature of GIS, my interests include: **IoT | CV | G
 <a href="andyphilharmonic@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=blue" alt="Youtube Badge"/>
 </a>  <br>
-**[My Website 🌐](https://pengyu-gis.github.io/)**
+**[My Website 🌐](https://pengyu-gis.github.io/)** 
 
 ---
 
