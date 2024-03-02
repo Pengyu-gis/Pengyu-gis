@@ -1,21 +1,8 @@
-### *Contact*
-I'm a GIS (*Geographical Information Science*) student. <br>
-Due to the interdisciplinary nature of GIS, my interests include: **IoT | CV | GeoAI | HCI**.
-<br><br>
-<a href="https://www.linkedin.com/in/pengyu-chen-a07973181/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=yellow" alt="LinkedIn Badge"/>
-</a> 
-<a href="andyphilharmonic@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=blue" alt="Youtube Badge"/>
-</a>  <br>
-**[My Website 🌐](https://pengyu-gis.github.io/)** 
+**Hi**, My name is Pengyu Chen, and I am interested in Multimodal, Complex systems and Interpretable artificial intelligence. For more details about me: [My_Website](pengyu-gis.github.io). Currently I am a senior (GIS major) at Wuhan Institute of Technology, working as a visiting student and research assistant at Wuhan University. I'm always looking to collaborate with excellent people, so feel free to work together!
 
 ---
 
-### *GISphere*
-*`I'm the website manager of GISphere, here is a intro about it.`*
-- *This School Instruction Project was launched in September 2019, aiming to provide timely and comprehensive information on global GIS and related professional colleges.* *We hope this guide can provide help and support for GIS-related professional friends who intend to study abroad.*
-- *The website [gisphere.info](https://gisphere.info/) ; If you have any feedback or advice please contact <gisphere@outlook.com>.*
-
----
- Nothing of mine is good enough. **I'm trying to be better.**
+### GISphere
+`I'm the website manager of GISphere, here is a intro about it.`
+- This School Instruction Project was launched in September 2019, aiming to provide timely and comprehensive information on global GIS and related professional colleges.* *We hope this guide can provide help and support for GIS-related professional friends who intend to study abroad.
+- The website [gisphere.info](https://gisphere.info/) ; If you have any feedback or advice please contact <gisphere@outlook.com>.
