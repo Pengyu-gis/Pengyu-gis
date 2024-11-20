@@ -3,5 +3,4 @@
 
 ***GeoAI | Spatial Statistic | Urban Computing***
 
-- Email: pengyuc@email.sc.edu
-- Homepage: [https://pengyu-gis.github.io/](https://pengyu-gis.github.io/)
+- Email: pengyuc@email.sc.edu ; Homepage: [https://pengyu-gis.github.io/](https://pengyu-gis.github.io/)
