@@ -3,7 +3,8 @@
 [![School_Badge](https://img.shields.io/badge/Institute-CeGIS-red)](https://sc.edu/study/colleges_schools/artsandsciences/geography/research/cegis/)
 
 
-*GeoAI | Spatial Statistic | Urban Computing* 
+*GeoAI | GeoSpatial Statistic | Urban Computing* 
 
 - Email: pengyuc@email.sc.edu
 - Homepage: [pengyu-gis.github.io](https://pengyu-gis.github.io/)
+
