@@ -4,9 +4,3 @@
 
 **GeoAI & GeoSpatial Statistics**  | **Email: pengyuc@email.sc.edu** <br>
 
-- Master of Science (Full Scholarship)  <br>
-*University of South Carolina* （南卡罗莱纳大学）
-
-- Bachelor of Science<br>
-*Wuhan University of Technology*（武汉理工大学）
-
