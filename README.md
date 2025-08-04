@@ -2,5 +2,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-PengyuChen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/pengyu-chen-a07973181/)](http://linkedin.com/in/pengyu-chen-a07973181/)
 [![GISphere_Badge](https://img.shields.io/badge/GISphere-GISphereInfo-yellow)](https://gisphere.info/)
 
-**GeoAI + Remote Sensing**  | **Email: pengyuc@email.sc.edu** <br>
+**GeoAI + Remote Sensing + A little bit Statistics**  | **Email: pengyuc@email.sc.edu** <br>
 
