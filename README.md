@@ -1,2 +1,2 @@
 Spatial statistics & Representation Learning. <br>
-Email: pengyuc@vt.edu
+CN: 空间统计/空间分析/表征学习
